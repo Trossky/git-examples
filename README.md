@@ -1,2 +1,4 @@
 
-* Intro to Git
+# Intro to Git
+
+Modify readme from remote.
