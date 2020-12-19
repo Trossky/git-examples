@@ -8,4 +8,6 @@ Modify file to create a pull request.
 
 lorem
 asdasdaadda
-Start a conflict here!
+
+Add new branch call test
+
