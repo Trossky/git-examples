@@ -8,6 +8,4 @@ Modify file to create a pull request.
 
 lorem
 asdasdaadda
-
-Add new branch call testing_remote
-
+Start a conflict here!
